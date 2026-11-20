@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Gra w kości 2026 desktop/1.0.0": {
+        "runtime": {
+          "Gra w kości 2026 desktop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gra w kości 2026 desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
